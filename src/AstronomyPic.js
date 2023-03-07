@@ -7,7 +7,7 @@ const AstronomyPic = () => {
   useEffect(() => {
     const fetchData = async () => {
       const result = await axios.get(
-        `https://api.nasa.gov/planetary/apod?api_key=0Gqsqdk0tb23PARbuMLRYUEnpfG9gZQxmweNFRCM`
+        `https://api.nasa.gov/planetary/apod?api_key={your api key}`
       );
       setPictureData(result.data);
     };
