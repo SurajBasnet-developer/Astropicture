@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Astropicture/static/css/main.be996708.css",
+    "main.js": "/Astropicture/static/js/main.4250361c.js",
+    "index.html": "/Astropicture/index.html",
+    "main.be996708.css.map": "/Astropicture/static/css/main.be996708.css.map",
+    "main.4250361c.js.map": "/Astropicture/static/js/main.4250361c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be996708.css",
+    "static/js/main.4250361c.js"
+  ]
+}
